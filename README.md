@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gullipalli Rajesh</h1>
-<h3 align="center">💻 Full Stack Developer | Java • Spring Boot • React • Flutter • PHP | 3.5+ Years of Experience</h3>
+<h3 align="center">🚀 Backend & SaaS Engineer | Java • Spring Boot • Microservices • POS Systems</h3>
 
 <p align="center">
   <a href="mailto:gullipallirajesh860@gmail.com">
@@ -8,99 +8,125 @@
   <a href="https://www.linkedin.com/in/rajesh-gullipalli-317bba98/">
     <img src="https://img.shields.io/badge/LinkedIn-Rajesh%20Gullipalli-blue?style=flat-square&logo=linkedin" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Visakhapatnam%2C%20India-orange?style=flat-square&logo=google-maps" />
+  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-orange?style=flat-square&logo=google-maps" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I’m a **Full Stack Developer** with **3.5+ years of IT experience**, including  
-**2.5 years as a Java Developer** and **1 year as an Android Full Stack Developer**.  
+## 👨‍💻 About Me
 
-I love designing scalable systems, APIs, and cross-platform apps.  
-Skilled in **Java, Spring Boot, React, Flutter, PHP (CodeIgniter), and MySQL**,  
-I enjoy building end-to-end products that solve real-world problems.
+I’m a **Java Backend Developer with 3.5+ years of experience** building scalable REST APIs and SaaS-based POS systems.
 
----
+🔹 Currently working on a **US-based Restaurant Billing & POS SaaS platform**  
+🔹 Strong in **Spring Boot, Microservices, Spring Security & REST APIs**  
+🔹 Experience in **multi-tenant SaaS architecture & production support**  
+🔹 Background in **Android POS development & Full Stack solutions**
 
-### 🛠️ Tech Stack
-
-#### 💬 Languages
-`Java` | `PHP` | `Dart` | `C` | `JavaScript` | `SQL`
-
-#### ⚙️ Frameworks & Technologies
-`Spring Boot` | `Microservices` | `React JS` | `Flutter` | `CodeIgniter` | `Bootstrap` | `jQuery`
-
-#### 🗄️ Databases
-`MySQL` | `Oracle` | `PostgreSQL` | `Cassandra` | `ElasticSearch`
-
-#### 🧰 Tools & Platforms
-`Postman` | `JMeter` | `Kafka` | `JUnit` | `Maven` | `Git` | `Kibana` | `Grafana`
-
-#### 🧩 Core Skills
-`REST API Development` | `Unit Testing` | `Debugging` | `Design Patterns`
+I enjoy designing clean backend architectures and solving real-world business problems through technology.
 
 ---
 
-### 💼 Experience
+## 🏆 Current Production Project
 
-**🚀 Java Developer — Vensai Technologies (Client: CEVA Logistics)**  
-*May 2023 – Present | Visakhapatnam, India*  
-- Developed **REST APIs** and **microservices** using Java, Spring Boot, Cassandra, and Kafka.  
-- Optimized backend performance and conducted **API testing** with JUnit & JMeter.  
-- Collaborated with distributed teams for production support and enhancements.  
+### 🍽️ Restaurant Billing & POS SaaS (US-Based Product)
 
-**🎓 Computer Programming Trainer — Aditya Degree College**  
-*Dec 2021 – Apr 2023*  
-- Trained **300+ students** in Java, SQL, and Web technologies.  
-- Conducted mock interviews and coding labs.  
+**Tech Stack:** Java • Spring Boot • Spring Security • React • Flutter • MySQL • GCP
 
-**📱 Android Full Stack Developer — SIRI POS**  
-*2019 – 2020*  
-- Built Android apps with **Java + XML**, backend APIs using **PHP (CodeIgniter)**.  
-- Managed full app lifecycle including UI/UX and deployment.  
+- Developing scalable REST APIs for billing, invoicing, tax handling & payments
+- Implemented multi-tenant SaaS architecture
+- Role-based authentication & secure API access
+- Web & Mobile platform integration
+- Production debugging & performance optimization
+- Supporting real-time POS transactions
 
 ---
 
-### 🚀 Projects
+## 💼 Professional Experience
 
-#### 🏢 AllowGuest.com – Visitor & Tenant Management System *(Personal Project)*
-**Tech Stack:** Flutter • PHP • MySQL  
-- Developed a multi-role app for tenants, guards, and admins.  
-- Implemented visitor pre-approval, logging, and admin dashboards.  
+### 🚀 Java Developer — Vensai Technologies  
+*May 2023 – Present*
 
-#### 🏥 Hospital Management System
-**Tech Stack:** PHP • MySQL • Bootstrap • JQuery  
-- Created modules for doctors, patients, and appointments.  
-- Integrated PDF billing & Excel stock uploads.  
+- Developing Microservices using Java & Spring Boot
+- Implementing REST APIs & secure authentication (Spring Security)
+- Working with Cassandra, PostgreSQL & ElasticSearch
+- Production monitoring using Kibana
+- API testing using JUnit & JMeter
+- Agile-based development & release cycles
 
-#### 🛒 SIRI Point Of Sales
-**Tech Stack:** Java + XML (Android) • PHP + MySQL (Backend)  
-- Designed POS app for retail and wholesale stores.  
-- Built a web portal for custom online ordering.  
+### 📦 Project: Booking Unified Service – CEVA Logistics
 
----
+- Developed backend modules for logistics data processing
+- Implemented enhancements & bug fixes via ticket workflow
+- Collaborated through Git-based version control
+- Assisted in integration testing & validation
 
-### 🎓 Education
-**Master of Computer Applications (MCA)**  
-AQJ Educational Institutes, Andhra University | *2023*
+### 🏢 Project: Allow Guest – Gated Community Management
 
----
-
-### 🌱 Interests
-- Exploring new technologies  
-- Watching tech debates & podcasts 🎤  
-- Gaming 🎮  
+- Built REST APIs for visitor management system
+- Implemented role-based access & database operations
+- Supported backend-frontend integration
 
 ---
 
-### 📊 GitHub Stats
+### 📱 Android Full Stack Developer — SIRI POS  
+*2019 – 2020*
+
+- Developed Android POS applications using Java
+- Integrated PHP (CodeIgniter) backend APIs
+- Worked on retail & restaurant POS workflows
+- Handled debugging, optimization & deployment
+
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages
+`Java` | `PHP` | `Dart` | `JavaScript` | `SQL`
+
+### ⚙️ Backend
+`Spring Boot` | `Spring Security` | `Microservices` | `REST APIs`
+
+### 🗄️ Databases
+`MySQL` | `PostgreSQL` | `Cassandra` | `ElasticSearch`
+
+### ☁️ Cloud
+`Google Cloud Platform (GCP)`
+
+### 🧰 Tools
+`Git` | `Maven` | `JUnit` | `Postman` | `JMeter` | `Kibana`
+
+### 🎨 Frontend & Mobile
+`React JS` | `Flutter` | `Android (Java)` | `HTML` | `CSS`
+
+---
+
+## 🧠 Core Expertise
+
+- SaaS Product Development
+- POS & Billing Systems
+- Multi-Tenant Architecture
+- REST API Design
+- Production Debugging
+- Clean Code & Design Patterns
+- Agile & SDLC
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GullipalliRajesh&show_icons=true&theme=react&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GullipalliRajesh&layout=compact&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RajeshG324&show_icons=true&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshG324&layout=compact&theme=react&hide_border=true" height="165"/>
 </p>
 
 ---
 
-⭐ *“Code with logic. Build with passion.”*
+## 🌱 Currently Learning
+
+- Advanced Microservices Architecture
+- System Design Fundamentals
+- Docker & Cloud Deployment Strategies
+
+---
+
+⭐ *“Building scalable backend systems with clean architecture.”*
