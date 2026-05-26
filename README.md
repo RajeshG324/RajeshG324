@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Java Backend Developer with 3.5+ years of experience** building scalable REST APIs and SaaS-based POS systems.
+I’m a **Java Backend Developer with 4+ years of experience 3years exp as a java developer and including 1 year working as a android full stack developer** building scalable REST APIs and SaaS-based POS systems.
 
 🔹 Currently working on a **US-based Restaurant Billing & POS SaaS platform**  
 🔹 Strong in **Spring Boot, Microservices, Spring Security & REST APIs**  
@@ -30,7 +30,7 @@ I enjoy designing clean backend architectures and solving real-world business pr
 
 ### 🍽️ Restaurant Billing & POS SaaS (US-Based Product)
 
-**Tech Stack:** Java • Spring Boot • Spring Security • React • Flutter • MySQL • GCP
+**Tech Stack:** Java • Spring Boot • Spring Security • React • Flutter • MySQL • MongoDb • Cassandra • Elastic search • GCP 
 
 - Developing scalable REST APIs for billing, invoicing, tax handling & payments
 - Implemented multi-tenant SaaS architecture
@@ -52,6 +52,13 @@ I enjoy designing clean backend architectures and solving real-world business pr
 - Production monitoring using Kibana
 - API testing using JUnit & JMeter
 - Agile-based development & release cycles
+
+### 📦 Project: Sankranti Restaurant – Company product
+
+- Developed backend modules for Online ordering food items
+- Implemented enhancements & bug fixes via ticket workflow
+- Collaborated through Git-based version control
+- Assisted in integration testing & validation
 
 ### 📦 Project: Booking Unified Service – CEVA Logistics
 
@@ -87,7 +94,7 @@ I enjoy designing clean backend architectures and solving real-world business pr
 `Spring Boot` | `Spring Security` | `Microservices` | `REST APIs`
 
 ### 🗄️ Databases
-`MySQL` | `PostgreSQL` | `Cassandra` | `ElasticSearch`
+`MySQL` | `PostgreSQL` | `Cassandra` | `ElasticSearch`| `Mongo DB`
 
 ### ☁️ Cloud
 `Google Cloud Platform (GCP)`
@@ -96,7 +103,7 @@ I enjoy designing clean backend architectures and solving real-world business pr
 `Git` | `Maven` | `JUnit` | `Postman` | `JMeter` | `Kibana`
 
 ### 🎨 Frontend & Mobile
-`React JS` | `Flutter` | `Android (Java)` | `HTML` | `CSS`
+`React.js` | `Flutter` | `Android (Java)` | `HTML` | `CSS`
 
 ---
 
